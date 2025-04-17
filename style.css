@@ -1,0 +1,10 @@
+body{
+    background-color: darkcyan;
+    line-height: 0px;
+}
+.container {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+  }
+
